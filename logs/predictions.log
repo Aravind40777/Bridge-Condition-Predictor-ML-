@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-01T22:55:04.903713", "input": {"Age_of_Bridge": 88, "Traffic_Volume": 3850, "Material_Type": "Concrete", "Maintenance_Level": "No-Maintainance"}, "prediction": "Good / Safe \u2705", "probability_poor": 0.4014}
+{"timestamp": "2026-07-01T22:55:19.586808", "input": {"Age_of_Bridge": 88, "Traffic_Volume": 3850, "Material_Type": "Steel", "Maintenance_Level": "No-Maintainance"}, "prediction": "Poor / Unsafe \u26a0\ufe0f", "probability_poor": 0.6}
+{"timestamp": "2026-07-01T23:57:05.536859", "input": {"Age_of_Bridge": 70, "Traffic_Volume": 4600, "Material_Type": "Steel", "Maintenance_Level": "Annual"}, "prediction": "Poor / Unsafe \u26a0\ufe0f", "probability_poor": 0.7947}
