@@ -1,4 +1,4 @@
-Bridge Condition Predictor using Machine Learning
+**Bridge Condition Predictor using Machine Learning**
 
 Project Overview
 
