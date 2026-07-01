@@ -285,7 +285,8 @@ streamlit run app.py
 ---
 
 ## Prediction Result
-<img width="1913" height="956" alt="Screenshot 2026-07-01 235816" src="https://github.com/user-attachments/assets/69084103-5945-4e5c-bd9e-31b5988fcb99" />
+<img width="1866" height="810" alt="Screenshot 2026-07-01 235840" src="https://github.com/user-attachments/assets/c4f5c927-a31c-4e9b-8927-62e8d8671366" />
+
 
 
 
